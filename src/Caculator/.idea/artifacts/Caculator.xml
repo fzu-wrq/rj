@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Caculator">
+    <output-path>$PROJECT_DIR$/out/artifacts/Caculator</output-path>
+    <root id="archive" name="Caculator.jar">
+      <element id="module-output" name="test1" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
